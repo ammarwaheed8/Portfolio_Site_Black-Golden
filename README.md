@@ -100,7 +100,7 @@ Or simply drag and drop `index.html` into any browser window.
 
 ## 📸 Screenshots
 
-> Add screenshots of your portfolio sections here for a better GitHub preview.
+> No preview, visit the link to experience by yourself [![Here](https://portfolio-ammarwaheed.netlify.app/).
 
 ---
 

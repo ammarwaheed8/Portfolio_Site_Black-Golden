@@ -100,7 +100,8 @@ Or simply drag and drop `index.html` into any browser window.
 
 ## 📸 Screenshots
 
-> No preview, visit the link to experience by yourself [![Here](https://portfolio-ammarwaheed.netlify.app/).
+> No preview, Click <a href="https://portfolio-ammarwaheed.netlify.app/">Here!</a> to visit the site and experience it by yourself
+
 
 ---
 
